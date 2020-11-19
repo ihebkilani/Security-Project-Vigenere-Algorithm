@@ -1,10 +1,10 @@
-<h1 align="center">Welcome to Security-Project-Vigenere-Algorithm 👋</h1>
-<p>
-</p>
+<h1 align="center">Security-Project-Vigenere-Algorithm 🔐</h1>
 
-## Show your support
+## Description
+A Java encryption program that allows users to encrypt, decrypt and cryptanalyze input files with existing encryption algorithms (Cesar, Vigenere).
 
-Give a ⭐️ if this project helped you!
+## Authors
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+👤 **Iheb KILANI**
+
+👤 **Yosr Merchaoui**
